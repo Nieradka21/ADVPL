@@ -1,4 +1,4 @@
-*.prw linguist-language=AdvPL
-*.tlpp linguist-language=AdvPL
-*.prw linguist-detectable=true
-*.tlpp linguist-detectable=true
+*.prw linguist-language=ADVPL
+*.prg linguist-language=ADVPL
+*.tlpp linguist-language=ADVPL
+*.ch linguist-language=ADVPL
