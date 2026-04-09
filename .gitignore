@@ -1,0 +1,11 @@
+# Ignorar tudo
+*
+
+# Permitir só arquivos .prw
+!*.prw
+
+# (opcional) permitir outros fontes ADVPL
+!*.tlpp
+
+# Permitir o próprio gitignore
+!.gitignore
