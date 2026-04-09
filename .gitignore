@@ -9,3 +9,5 @@
 
 # Permitir o próprio gitignore
 !.gitignore
+
+!.gitattributes
